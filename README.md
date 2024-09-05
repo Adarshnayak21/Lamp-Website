@@ -19,11 +19,8 @@ Check out the live version of the website here: [Live Link](https://clinquant-mo
 - **CSS3**
 - **JavaScript**
 
-## 🚀 Getting Started
+## 🚀 Enjoy the responsiveness
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/lamp-website.git
 
 
 
