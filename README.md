@@ -1,6 +1,8 @@
 
 ### Responsive Lamp Website
 
+## Live Link- https://clinquant-monstera-3a514a.netlify.app/
+
 - Responsive Lamp Website Design Using HTML CSS & JavaScript
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
